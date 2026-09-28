@@ -12,18 +12,18 @@
   },
   "dependencies": {
     "express": "^5.0.0",
-    "http-proxy-middleware": "^3.0.5",
-    "express-rate-limit": "^7.5.0",
+    "http-proxy-middleware": "^4.2.0",
+    "express-rate-limit": "^8.7.0",
     "cors": "^2.8.5",
-    "helmet": "^8.0.0",
+    "helmet": "^8.3.0",
     "http-proxy": "^1.18.1"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
     "@types/express": "^5.0.0",
     "@types/http-proxy": "^1.17.16",
-    "@types/node": "^22.0.0",
+    "@types/node": "^26.6.2",
     "tsx": "^4.19.4",
-    "typescript": "^5.8.3"
+    "typescript": "^7.0.2"
   }
 }
