@@ -9,12 +9,12 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@noble/hashes": "^1.4.0",
-    "@noble/secp256k1": "^2.0.0",
-    "@scure/base": "^1.1.0"
+    "@noble/hashes": "^2.4.0",
+    "@noble/secp256k1": "^3.2.0",
+    "@scure/base": "^2.4.0"
   },
   "devDependencies": {
-    "typescript": "^5.4.0",
+    "typescript": "^7.0.2",
     "vitest": "^1.0.0"
   },
   "exports": {
