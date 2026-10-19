@@ -12,16 +12,16 @@
     "test": "node --test tests/**/*.test.mjs"
   },
   "dependencies": {
-    "express": "^5.2.1",
+    "express": "^5.3.0",
     "cors": "^2.8.5",
-    "better-sqlite3": "^11.10.0"
+    "better-sqlite3": "^13.0.3"
   },
   "devDependencies": {
     "@types/express": "^5.0.1",
     "@types/cors": "^2.8.17",
     "@types/better-sqlite3": "^7.6.12",
-    "@types/node": "^22.0.0",
+    "@types/node": "^26.6.5",
     "tsx": "^4.19.2",
-    "typescript": "5.9.3"
+    "typescript": "7.0.2"
   }
 }
